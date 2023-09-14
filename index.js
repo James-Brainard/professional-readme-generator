@@ -45,6 +45,10 @@ const questions = [
     name: 'test'
   },
   {
+    message: "Please enter any credits or resources you may have used. If any.",
+    name: 'credits'
+  },
+  {
     type: 'list',
     message: "Please select the license you want attached to this application.",
     choices: ["Apache", "GNU", "MIT", "GPLv3"],
@@ -63,7 +67,6 @@ const questions = [
     name: 'email'
   }
 ];
-// fix Question section, Need to have email BELOW Github username.
 // TODO: Create a function to write README file 
 // (fileName, data)
 
