@@ -29,7 +29,6 @@ function renderLicenseLink(license) {
       return 'https://www.gnu.org/licenses/gpl-3.0'
       break;
   }
-
 }
 
 // TODO: Create a function that returns the license section of README
@@ -57,6 +56,8 @@ function generateMarkdown(data) {
   * [Contributions](#contribute)
   * [Test](#test)
   * [License](#license)
+  * [Link](#link)
+  * [Questions](#question)
   
   ## Installation
   ${data.install}
@@ -72,9 +73,15 @@ function generateMarkdown(data) {
 
   ## License
   ${data.license}
+
+  ## Link to deployed site
+  ${data.link}
+
+  ## Question
+  Please refer to my github for other awesome project! https://github.com/${data.github}
+
+  If you have any questions regarding this application or any others. You can reach me at: ${data.email}
 `;
 }
 
 module.exports = generateMarkdown
-
-// create badges and license objects here?

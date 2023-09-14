@@ -25,28 +25,28 @@ const questions = [
     name: 'title'
   },
   {
-    message: "Enter a description for your project",
+    message: "Enter a description for your project.",
     name: 'description'
   },
   {
-    message: "Enter installation instructions",
+    message: "Enter installation instructions.",
     name: 'install'
   },
   {
-    message: "Enter usage information",
+    message: "Enter usage information.",
     name: 'usage'
   },
   {
-    message: "Please include any contributing guidelines",
+    message: "Please include any contributing guidelines if any.",
     name: 'contribute'
   },
   {
-    message: "Enter test instructions for running the test on this application",
+    message: "Enter test instructions for running the test on this application.",
     name: 'test'
   },
   {
     type: 'list',
-    message: "Please select the license you want attached to this application",
+    message: "Please select the license you want attached to this application.",
     choices: ["Apache", "GNU", "MIT", "GPLv3"],
     name: 'license'
   },
@@ -63,7 +63,7 @@ const questions = [
     name: 'email'
   }
 ];
-
+// fix Question section, Need to have email BELOW Github username.
 // TODO: Create a function to write README file 
 // (fileName, data)
 
