@@ -16,7 +16,9 @@
   * [Questions](#question)
   
   ## Installation
-  Windows: gitbash at gitforwindows.org, visual studio code, node.js and npm inquirer@8.2.4. MacOS: visual studio code, node.js, npm inqurier@8.2.4
+  Windows: gitbash at gitforwindows.org, visual studio code, node.js and npm inquirer@8.2.4. 
+  
+  MacOS: visual studio code, node.js, npm inqurier@8.2.4
 
   ## Usage 
   Use this application anytime during the creation of your project to inform anyone viewing your repo how to use it, how it was credited, the usage and any contributions made to the project.
@@ -25,21 +27,27 @@
   N/A
 
   ## Test
-  Run node index in the terminal. Begin answering the promps pertaining to your project. Once done, a README.md will be generated with the input you provided.
+  Run node index in the terminal. Begin answering the promps pertaining to your project. 
+  
+  Once done, a README.md will be generated with the input you had provided.
 
   ## Credits
-  use of license and badge links please refer to https::/gist.github.com/lukas-h/2a5d00690736b4c3a7ba, node.js please refer to nodejs.org/en, npm inquirer please refer to https::/npmjs.com/package/inquirer
+  Use of license and badge links please refer to https::/gist.github.com/lukas-h/2a5d00690736b4c3a7ba 
+  
+  node.js please refer to nodejs.org/en 
+  
+  npm inquirer please refer to https::/npmjs.com/package/inquirer
 
   ## License
   GNU
 
   ## Link to deployed site
-  https://james-brainard.github.io/professional-readme-generator/
+  N/A
 
   ## Link to Video Walkthrough
   https://drive.google.com/file/d/1JCqKe0xENp-C5TkN9y4W2Ue4ZMEXOj9v/view
 
   ## Question
-  Please refer to my github for other awesome project! https://github.com/james-brainard
+  Please refer to my github for other awesome projects! https://github.com/james-brainard
 
   If you have any questions regarding this application or any others. You can reach me at: james.brainard2@aol.com
