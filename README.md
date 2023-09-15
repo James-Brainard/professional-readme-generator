@@ -32,11 +32,11 @@
   Once done, a README.md will be generated with the input you had provided.
 
   ## Credits
-  Use of license and badge links please refer to https::/gist.github.com/lukas-h/2a5d00690736b4c3a7ba 
+  Use of license and badge links please refer to https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba 
   
   node.js please refer to nodejs.org/en 
   
-  npm inquirer please refer to https::/npmjs.com/package/inquirer
+  npm inquirer please refer to https://npmjs.com/package/inquirer
 
   ## License
   GNU
